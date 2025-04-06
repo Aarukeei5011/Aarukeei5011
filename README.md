@@ -1,3 +1,4 @@
+<img src="https://www.shotadft.com/img/shotadft_icon_a.webp" width="160" alt="Shotadft Logo"><a 
 <p align="left">
   <a href="https://github.com/Aarukeei5011">
     <img height="20" src="https://komarev.com/ghpvc/?username=Keichan15" />
