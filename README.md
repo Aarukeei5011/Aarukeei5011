@@ -4,9 +4,9 @@ Welcome to my GitHub profile! Here are some of my projects and interests.
 
 ## Skills
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, VS Code
+- **Languages**: JavaScript, Python, Java, css, html5
+- **Frameworks**: Node.js
+- **Tools**: Git, VS Code
 
 ## Projects
 
@@ -15,9 +15,9 @@ Description of the project. What it does, main features, and technologies used.
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/username/)
-- [Twitter](https://twitter.com/username)
-- [Personal Website](https://username.github.io)
+- [YouTube](https://www.youtube.com/@arukee-y9v)
+- [Twitter](https://x.com/RKB20101)
+- [Personal Website](https://aarukeei5011.github.io/)
 
 ## Code Snippet
 
