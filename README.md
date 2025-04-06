@@ -1,9 +1,9 @@
 <p align="left">
   <a href="https://github.com/Aarukeei5011">
-    <img height="20" src="https://x.com/RKB20101" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=Keichan15" />
   </a>
-  <a href="https://github.com/Keichan15">
-    <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/Aarukeei5011">
+    <img height="20" src="https://img.shields.io/github/followers/Aarukeei5011?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/Keichan_15">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Keichan_15/posts.svg" />
