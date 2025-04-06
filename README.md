@@ -27,6 +27,7 @@ def hello_world():
 
 hello_world()
 
+```
 
 ## 4. プロフィールの装飾
 
