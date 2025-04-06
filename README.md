@@ -72,7 +72,6 @@ hello_world()
 - **GIF**: 楽しいアニメーションや画像を追加して、プロフィールを魅力的に見せましょう。
 
 ```markdown
-```
 ## Badges
 
 ![GitHub followers](https://img.shields.io/github/followers/Aarukeei5011?label=Follow&style=social)
