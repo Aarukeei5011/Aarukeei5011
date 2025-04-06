@@ -1,5 +1,3 @@
-<img src="https://www.shotadft.com/img/shotadft_icon_a.webp" width="160" alt="Shotadft Logo"><a 
-<p align="left">
   <a href="https://github.com/Aarukeei5011">
     <img height="20" src="https://komarev.com/ghpvc/?username=Keichan15" />
   </a>
@@ -8,7 +6,7 @@
   </a>
 </p>
 
-src="https://www.shotadft.com/img/shotadft_icon_a.webp" width="160" alt="Shotadft Logo"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=shotadft&hide=stars&show_icons=true&theme=dark&title_color=fbfb00&locale=ja" alt="Shotadft's GitHub stats"></a>
+<img src="https://www.shotadft.com/img/shotadft_icon_a.webp" width="160" alt="Shotadft Logo"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Aarukeei5011&hide=stars&show_icons=true&theme=dark&title_color=fbfb00&locale=ja" alt="Aarukeei5011's GitHub stats"></a>
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aarukeei5011&theme=gruvbox)
