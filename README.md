@@ -1,5 +1,5 @@
   <a href="https://github.com/Aarukeei5011">
-    <img height="20" src="https://komarev.com/ghpvc/?username=Keichan15" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=Aarukeei5011" />
   </a>
   <a href="https://github.com/Aarukeei5011">
     <img height="20" src="https://img.shields.io/github/followers/Aarukeei5011?label=follow&logo=github&style=flat" />
