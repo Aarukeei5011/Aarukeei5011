@@ -74,8 +74,8 @@ hello_world()
 ```markdown
 ## Badges
 
-![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Aarukeei5011?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Aarukeei5011?style=social)
 
 ```
 ![](https://raw.githubusercontent.com/Aarukeei5011/Aarukeei5011/output/github-contribution-grid-snake.svg)
