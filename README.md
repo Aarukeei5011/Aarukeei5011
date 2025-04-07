@@ -40,6 +40,8 @@
 
 Welcome to my GitHub profile! Here are some of my projects and interests.
 
+<p align="left"> <a href="https://twitter.com/tocomoril_rin" target="blank"><img src="https://img.shields.io/twitter/follow/tocomoril_rin?logo=twitter&style=for-the-badge" alt="tocomoril_rin" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tocomoril_rin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tocomoril_rin" height="30" width="40" /></a>
