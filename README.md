@@ -74,28 +74,6 @@ def hello_world():
 hello_world()
 
 ```
-
-## 4. プロフィールの装飾
-
-- **バッジ**: Shields.ioを使ってバッジを追加し、スキルやステータスを表示できます。
-- **GIF**: 楽しいアニメーションや画像を追加して、プロフィールを魅力的に見せましょう。
-
-```markdown
-
-## Badges
-
-![GitHub followers](https://img.shields.io/github/followers/Aarukeei5011?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/RKB20101?style=social)
-
-```
-## Badges
-
-![GitHub followers](https://img.shields.io/github/followers/Aarukeei5011?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/RKB20101?style=social)
-
-![](https://raw.githubusercontent.com/Aarukeei5011/Aarukeei5011/output/github-contribution-grid-snake.svg)
-
-
 <!--
 **Aarukeei5011/Aarukeei5011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
