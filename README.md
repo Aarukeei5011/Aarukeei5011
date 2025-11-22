@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://aarukeei5011.github.io/images/Kuroiro-Nekomimi_Nittobou.jpg" width="160" alt="Aarukeei5011 Logo">
+<img src="/120573692_p0.png" width="160" alt="Aarukeei5011 Logo">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Aarukeei5011&hide=stars&show_icons=true&theme=dark&title_color=fbfb00&locale=ja" alt="Aarukeei5011's GitHub stats"></a>
 
 ## Stats
