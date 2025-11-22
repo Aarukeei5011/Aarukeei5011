@@ -16,9 +16,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aarukeei5011&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aarukeei5011&theme=gruvbox&utcOffset=9)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Aarukeei5011&theme=gruvbox)
-
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,aws,gcp" />
 <br>
@@ -32,8 +29,6 @@
 
 # Hello 👋, I'm Aarukeei5011!　
 <h3 align="center">A passionate frontend developer from Japan</h3>
-
-Welcome to my GitHub profile! Here are some of my projects and interests.
 
 ## Connect with me
 
