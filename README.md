@@ -22,9 +22,6 @@
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Aarukeei5011&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarukeei5011&theme=vue-dark&layout=compact" />
-</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarukeei5011&" alt="aarukeei5011" /></p>
 
 # Hello 👋, I'm Aarukeei5011!　
