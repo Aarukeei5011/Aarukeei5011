@@ -20,10 +20,6 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,aws,gcp" />
 <br>
 
-## 🏃‍♀️ Activities
-<div align="left"> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarukeei5011&" alt="aarukeei5011" /></p>
-
 # Hello 👋, I'm Aarukeei5011!　
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
