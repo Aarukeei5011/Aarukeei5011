@@ -19,7 +19,6 @@
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,aws,gcp" />
 <br>
-
 # Hello 👋, I'm Aarukeei5011!　
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
