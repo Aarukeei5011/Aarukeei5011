@@ -7,6 +7,7 @@
 </p>
 
 <img src="/120573692_p0.png" width="160" alt="Aarukeei5011 Logo">
+
 ![](https://github-readme-stats.vercel.app/api?username=Aarukeei5011&hide=stars&show_icons=true&theme=dark&title_color=fbfb00&locale=ja&border_radius=20&cache_seconds=86400&text_bold=true&card_width=500&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## Stats
