@@ -10,11 +10,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Aarukeei5011&hide=stars&show_icons=true&theme=dark&title_color=fbfb00&locale=ja" alt="Aarukeei5011's GitHub stats"></a>
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aarukeei5011&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aarukeei5011&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aarukeei5011&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aarukeei5011&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aarukeei5011&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aarukeei5011&theme=darcula)
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,aws,gcp" />
