@@ -13,6 +13,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aarukeei5011&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=darcula&utcOffset=8)
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,aws,gcp" />
