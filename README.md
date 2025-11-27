@@ -26,8 +26,6 @@
 
 ## Connect with me
 
-- [YouTube](https://www.youtube.com/@arukee-y9v)
-- [Twitter](https://x.com/RKB20101)
 - [Personal Website](https://aarukeei5011.github.io/)
 
 <h3 align="left">Languages and Tools:</h3>
