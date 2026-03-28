@@ -1,10 +1,5 @@
-  <a href="https://github.com/Aarukeei5011">
-    <img height="20" src="https://komarev.com/ghpvc/?username=Aarukeei5011" />
-  </a>
-  <a href="https://github.com/Aarukeei5011">
-    <img height="20" src="https://img.shields.io/github/followers/Aarukeei5011?label=follow&logo=github&style=flat" />
-  </a>
-</p>
+![](https://komarev.com/ghpvc/?username=Aarukeei5011)
+![](https://img.shields.io/github/followers/Aarukeei5011?label=follow&logo=github&style=flat)
 
 <img src="/120573692_p0.png" width="160" alt="Aarukeei5011 Logo">
 
@@ -18,8 +13,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=darcula&utcOffset=8)
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,aws,gcp" />
-<br>
+![](https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python)
 
 # Hello 👋, I'm Aarukeei5011!　
 <h3 align="center">A passionate frontend developer from Japan</h3>
