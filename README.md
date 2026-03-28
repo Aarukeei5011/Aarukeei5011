@@ -21,19 +21,3 @@
 ## Connect with me
 
 - [Github.io](https://aarukeei5011.github.io/)
-
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
-![](https://download.blender.org/branding/community/blender_community_badge_white.svg)
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
